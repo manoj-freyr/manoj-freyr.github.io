@@ -6,7 +6,7 @@ permalink: /about/
 I am a software developer with over 10 years of experience in building embedded, distributed, video and systems software.My core expertise is C++ on Linux systems with ocasional dabbling with Golang and Python for work and pleasure:)
 
 ### Detailed Information
-I am a Telecommunbications enineering graduate from [PESIT](<https://pes.edu/>) of 2011 batch and since ten worked my way through software industry getting myself ivolved with smart people developing systems software, distributed systems, multi media streaming software and GPGPU software. Overview of my professional experience is below.
+I am a Telecommunications enineering graduate from [PESIT](<https://pes.edu/>) 2011 batch and since then worked my way through software industry getting myself ivolved with smart people developing systems software, distributed systems, multi media streaming software and GPGPU software. Overview of my professional experience is below.
 
 **2020-** - Working as Member of Technical Staff at AMD, Inc working on [ROCm Validation Suite](<https://github.com/ROCm-Developer-Tools/ROCmValidationSuite/tree/master>). Here we are building an open source alternative for GPGPU programming using ROCm stack. Primary focus on C++, Linux and AMD GPGPU stack [ROC](<https://rocmdocs.amd.com/en/latest/>)
 
