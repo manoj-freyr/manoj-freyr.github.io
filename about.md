@@ -10,7 +10,7 @@ I am a Telecommunbications enineering graduate from (PESIT)[https://pes.edu/] of
 
 **2020-** - Working as Member of Technical Staff at AMD, Inc working on [https://github.com/ROCm-Developer-Tools/ROCmValidationSuite/tree/master]. Here we are building an open source alternative for GPGPU programming using ROCm stack. Primary focus on C++, Linux and AMD GPGPU stack [https://rocmdocs.amd.com/en/latest/]
 
-**2017- 2020** - Worked as part of (Akamai)[https://www.akamai.com/]'s  multimedia Ingest stack. Worked on literally iternet scale stack accelerating first tier ingestion onto Akamai's delivery stack and highly available and efficient configuration manager using SAX parser.Also Worked on MPEG DASH, HLS proxy software and gained experience and exposure in distributed systems.
+**2017- 2020** - Worked as part of [https://www.akamai.com/]((Akamai)'s  multimedia Ingest stack. Worked on literally iternet scale stack accelerating first tier ingestion onto Akamai's delivery stack and highly available and efficient configuration manager using SAX parser.Also Worked on MPEG DASH, HLS proxy software and gained experience and exposure in distributed systems.
 
 **2016- 2017** - As part the initial development team at (Onnet Systems India)[https://www.onnetsystems.net/], I was inolved in writing performant multimedia streaming server software. As part of this job, I was part of RTP/RTSP, DASH, HLS protocol stack development, development of 360 degree video streaming and got exposure to multimedia streaming and playback technologies.
 
